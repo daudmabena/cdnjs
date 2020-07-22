@@ -23,7 +23,7 @@
     "rss": "~0.3",
     "superagent": "~0.17",
     "tarball-extract": "~0.0",
-    "uglify-js": "~2.4",
+    "uglify-js": "~3.10",
     "underscore": "~1.6",
     "node-hipchat": "~0.4"
   },
